@@ -1,0 +1,11 @@
+Vreme: 07.02.2021 03:16:19 , broj puta: 78, broj vozila: 14868
+Vreme: 07.02.2021 03:16:23 , broj puta: 3b, broj vozila: 11882
+Vreme: 07.02.2021 03:16:27 , broj puta: 24, broj vozila: 4738
+Vreme: 07.02.2021 03:16:31 , broj puta: 3b, broj vozila: 11174
+Vreme: 07.02.2021 03:16:37 , broj puta: 3b, broj vozila: 10058
+Vreme: 07.02.2021 03:16:40 , broj puta: 78, broj vozila: 16335
+Vreme: 07.02.2021 03:16:42 , broj puta: 3b, broj vozila: 4340
+Vreme: 07.02.2021 03:16:47 , broj puta: 24, broj vozila: 3538
+Vreme: 07.02.2021 03:16:52 , broj puta: 12, broj vozila: 12433
+Vreme: 07.02.2021 03:16:54 , broj puta: 12, broj vozila: 4542
+Vreme: 07.02.2021 03:16:59 , broj puta: 3b, broj vozila: 14653

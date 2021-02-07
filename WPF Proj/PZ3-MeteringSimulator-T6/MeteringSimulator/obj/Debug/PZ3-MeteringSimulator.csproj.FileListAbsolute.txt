@@ -1,0 +1,29 @@
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Bogdan\Desktop\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.pdb

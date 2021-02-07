@@ -1,0 +1,94 @@
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\DragDrop.dll
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\DragDrop.pdb
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csprojResolveAssemblyReference.cache
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DragPreview.baml
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DragPreview.g.cs
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\MainWindow.baml
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.Cache
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\DragDrop.dll
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\DragDrop.pdb
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DragPreview.baml
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DragPreview.g.cs
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\MainWindow.baml
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\DragDrop.dll
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\DragDrop.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csprojAssemblyReference.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DragPreview.baml
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\DragPreview.g.cs
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\MainWindow.g.cs
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\Views\MainWindow.baml
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb

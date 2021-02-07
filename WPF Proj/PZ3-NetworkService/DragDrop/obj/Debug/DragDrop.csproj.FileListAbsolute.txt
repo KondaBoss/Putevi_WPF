@@ -1,0 +1,16 @@
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\DragDrop\bin\Debug\DragDrop.dll
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\DragDrop\bin\Debug\DragDrop.pdb
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.dll
+C:\Users\Dušan\Desktop\BogdanZadatak\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.pdb
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\DragDrop\bin\Debug\DragDrop.dll
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\DragDrop\bin\Debug\DragDrop.pdb
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.dll
+C:\Users\Bogdan\Desktop\PZ3\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\DragDrop\bin\Debug\DragDrop.dll
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\DragDrop\bin\Debug\DragDrop.pdb
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.csprojAssemblyReference.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.csproj.CoreCompileInputs.cache
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.dll
+C:\Users\DKondic\Desktop\WPF Proj\PZ3-NetworkService\DragDrop\obj\Debug\DragDrop.pdb
